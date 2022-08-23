@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-DemiBold.eot');
+    src: url('FuturaPT-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('FuturaPT-DemiBold.woff2') format('woff2'),
+        url('FuturaPT-DemiBold.woff') format('woff'),
+        url('FuturaPT-DemiBold.ttf') format('truetype'),
+        url('FuturaPT-DemiBold.svg#FuturaPT-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Heavy.eot');
+    src: url('FuturaPT-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('FuturaPT-Heavy.woff2') format('woff2'),
+        url('FuturaPT-Heavy.woff') format('woff'),
+        url('FuturaPT-Heavy.ttf') format('truetype'),
+        url('FuturaPT-Heavy.svg#FuturaPT-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Bold.eot');
+    src: url('FuturaPT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FuturaPT-Bold.woff2') format('woff2'),
+        url('FuturaPT-Bold.woff') format('woff'),
+        url('FuturaPT-Bold.ttf') format('truetype'),
+        url('FuturaPT-Bold.svg#FuturaPT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Medium.eot');
+    src: url('FuturaPT-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FuturaPT-Medium.woff2') format('woff2'),
+        url('FuturaPT-Medium.woff') format('woff'),
+        url('FuturaPT-Medium.ttf') format('truetype'),
+        url('FuturaPT-Medium.svg#FuturaPT-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
