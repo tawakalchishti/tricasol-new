@@ -12,8 +12,8 @@
         <div class="row align-items-center">
             <div class="col-md-6 col-lg-6">
                 <div class="visual-content">
-                    <h2 class="hosting-heading">Dedicated Hosting</h2>
-                    <h3 class="hosting-banner-h">$<span class="display-2">60</span>/mo</h3>
+                    <h2 class="text-uppercase">DEDICATED Hosting</h2>
+                    <h3 class="hosting-banner-h">$<span class="display-2">49</span>/mo</h3>
                     <p class="text-white">Top-tier performance at a cheap price</p>
                     <a href="#dedicated-price">
                         <button class="btn mt-4 getstarted-btn">Get Started</button>
@@ -30,7 +30,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div>
-                    <img src="images/dedicated-banner.svg" alt="">
+                    <img class="mx-auto dedicated-banner-img" src="images/dedicated-banner.svg" alt="">
                 </div>
                 <div class="btn-scroll-down">
                     <a href="javascript:void(0);" data-bind="scrollTo" data-target="#btn-scroll-down">
@@ -730,7 +730,8 @@
                 <div class="col-md-6 col-lg-3 col-sm-12">
                     <div class="card border-0 mx-2 py-3">
                         <div>
-                            <img width="65%" class="mx-auto py-4" src="images/firewall-managed.svg" alt="">
+                            <img width="65%" class="mx-auto py-4 dedicated-img" src="images/firewall-managed.svg"
+                                alt="">
                             <h5 class="my-3 text-center">Complete Control</h5>
                             <p class="text-center">
                                 With Dedicated Server Hosting you have complete control over how your server
@@ -744,7 +745,8 @@
                 <div class="col-md-6 col-lg-3 col-sm-12">
                     <div class="card border-0 mx-2 py-3">
                         <div>
-                            <img width="65%" class="img-fluid mx-auto py-4" src="images/shield-lock.svg" alt="">
+                            <img width="65%" class="img-fluid mx-auto py-4 dedicated-img" src="images/shield-lock.svg"
+                                alt="">
                             <h5 class="my-3 text-center">Privacy Protection</h5>
                             <p class="text-center">
                                 Privacy is a major concern for your website. Dedicated Server Hosting provides the
@@ -758,7 +760,8 @@
                 <div class="col-md-6 col-lg-3 col-sm-12">
                     <div class="card border-0 mx-2 py-3">
                         <div>
-                            <img width="50%" class="img-fluid mx-auto py-4" src="images/hand-certificate.svg" alt="">
+                            <img width="50%" class="img-fluid mx-auto py-4 dedicated-img"
+                                src="images/hand-certificate.svg" alt="">
                             <h5 class="my-3 text-center">Guaranteed Resources</h5>
                             <p class="text-center">
                                 With Dedicated Server Hosting you have complete control over how your server
@@ -772,7 +775,7 @@
                 <div class="col-md-6 col-lg-3 col-sm-12">
                     <div class="card border-0 mx-2 py-3">
                         <div>
-                            <img width="50%" class="img-fluid mx-auto py-4" src="images/speed.png" alt="">
+                            <img width="50%" class="img-fluid mx-auto py-4 dedicated-img" src="images/speed.png" alt="">
                             <h5 class="my-3 text-center">Perfomace & Speed</h5>
                             <p class="text-center">
                                 With Dedicated Server Hosting you have complete control over how your server
@@ -826,7 +829,7 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <div class="dedicated-text">
+                    <div class="dedicated-text mt-2">
                         Do you really love to see your performance graphs scale up? Try upgrading conventional
                         web hosting plans to our SSD VPS hosting and SSD Shared Hosting service. Tricasol commits to
                         surprise you which would compel you to really think whether you really run on a shared
@@ -920,7 +923,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 col-sm-12">
-                        <img width="70%" class="mx-auto img-fluid" src="images/dedicated-server.svg" alt="">
+                        <img width="70%" class="mx-auto img-fluid" src="images/dedicatedserver.svg" alt="">
                     </div>
                     <div class="col-md-12 col-lg-6 col-sm-12">
                         <div class="dedicated-text">

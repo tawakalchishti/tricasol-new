@@ -621,10 +621,10 @@ display: block !important;width: auto !important;height: auto;
     }
 }
 /* MY MEDIA QUERY  */
-@media (min-width: 768px) and (max-width: 990px) {
-    .ssd-image{
-        width: 100% !important;
-    }
+@media (max-width: 767px) and (min-width: 480px) {
+        .banner-image {
+            width: 60% !important;
+        }
 }
 @media (min-width: 320px) and (max-width: 479px) {
     .shared-hosting-text {
@@ -656,6 +656,12 @@ display: block !important;width: auto !important;height: auto;
     }
     .banner-image{
         width: 80% !important;
+    }
+    .dedicated-img{
+        width: 40% !important; 
+    }
+    .dedicated-banner-img{
+        margin-top: 1.5rem;
     }
 }
 /* MY MEDIA QUERY END  */
@@ -768,6 +774,9 @@ display: block !important;width: auto !important;height: auto;
     }
 }
 /* MY CSS Start  */
+.hosting-heading span{
+    color: #fcae00 !important;
+}
 .shared-hosting-text {
     text-align: left;font-size: 18px;font-weight: 200 !important;color: #969393 !important;line-height: 1.6 !important;
 }
@@ -794,9 +803,6 @@ display: block !important;width: auto !important;height: auto;
 }
 .ssd-hosting-text {
     text-align: left;font-size: 18px;font-weight: 200 !important;color: #969393;line-height: 1.8;
-}
-.ssd-image{
-    width: 80%;
 }
 .amazing-background{
     background-color: #EFF6FE;

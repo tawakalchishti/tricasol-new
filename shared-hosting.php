@@ -12,7 +12,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 col-lg-6">
                 <div class="visual-content">
-                    <h2 class="hosting-heading">Web Hosting + Free .COM</h2>
+                    <h2 class="hosting-heading">Web Hosting + Free <span>.com</span></h2>
                     <h3 class="hosting-banner-h">$<span class="display-2">1.99</span>/mo</h3>
                     <p class="text-white">Buy a Premium Shared Hosting plan for 12 months.<br>Get a free domain and
                         lifetime SSL</p>
@@ -314,7 +314,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 d-flex justify-content-center">
-                    <img class="img-fluid shared-image" src="images/shared-hosting.png" alt="">
+                    <img class="img-fluid shared-image" src="images/shared-hosting.svg" alt="">
                 </div>
             </div>
         </div>
@@ -324,7 +324,7 @@
                 <div class="row align-items-center">
                     <div class="col-12 col-md-12 col-lg-12">
                         <div class="text-left">
-                            <h3 class="text-uppercase mt-5">BENEFITS OF SHARED HOSTING</h3>
+                            <h3 class="text-uppercase dedicated-heading">BENEFITS OF SHARED HOSTING</h3>
                         </div>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-6 d-flex justify-content-center">
-                    <img class="price-image img-fluid" src="images/shared-hosting-price.png" alt="">
+                    <img class="price-image img-fluid" src="images/shared-hosting-price.svg" alt="">
                 </div>
                 <div class="col-md-6 col-lg-6">
                     <div class="shared-hosting-price-text">
@@ -387,7 +387,8 @@
                 <div class="row align-items-center">
                     <div class="col-12 col-md-12 col-lg-12">
                         <div class="text-left">
-                            <h3 class="text-uppercase mt-5">Why Choose Tricasol as your shared hosting provider?</h3>
+                            <h3 class="text-uppercase dedicated-heading">Why Choose Tricasol as your shared hosting
+                                provider?</h3>
                         </div>
                     </div>
                 </div>
@@ -434,7 +435,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-lg-6">
+                <div class="col-md-6 col-lg-6 col-sm-12">
                     <div class="ssd-hosting-text">
                         People are finding ways to get SSD Hosting at best prices. So, we have installed SSDs on our
                         Shared Web Hosting servers, so you may have an advantage. Tricasol is providing this package as
@@ -443,8 +444,8 @@
 
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-6 d-flex justify-content-center">
-                    <img class="ssd-image img-fluid" src="images/ssd-hosting.png" alt="">
+                <div class="col-md-6 col-lg-6 col-sm-12 d-flex justify-content-center">
+                    <img class="img-fluid mx-auto" src="images/ssd-shared-hosting.png" alt="">
                 </div>
                 <div class="col-md-12 col-lg-12 mt-3">
                     <div class="ssd-hosting-text">
